@@ -9,7 +9,7 @@ import XCTest
 @testable import CICDProject
 
 class CICDProjectTests: XCTestCase {
-  let loginTest = Account(username: "HelloWorld", password: "HelloWorld") 
+  let loginTest = Account(username: "HelloWorld", password: "HelloWorld")
 
   override func setUp() {
     // SetupCode
