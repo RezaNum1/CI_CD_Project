@@ -49,3 +49,8 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+struct Account {
+  let username: String
+  let password: String
+}
